@@ -62,7 +62,7 @@ export async function getPageConfig(kv, env) {
         {
             id: 'ownerName',
             label: '图床名称',
-            placeholder: 'Sanyue ImgHub',
+            placeholder: 'Sanyue PicHut',
             category: '全局设置',
         },
         {
